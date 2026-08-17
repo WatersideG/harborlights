@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# node, if tooling is added later
+node_modules/
+npm-debug.log*
+
+# local scratch
+tmp/
+*.local.html
